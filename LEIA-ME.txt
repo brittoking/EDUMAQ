@@ -1,0 +1,35 @@
+EDUMAQ — Código completo do site
+
+COMO ABRIR
+1. Extraia o arquivo ZIP.
+2. Abra index.html no navegador.
+3. Para editar, abra a pasta no VS Code.
+
+ARQUIVOS
+index.html: estrutura e textos.
+styles.css: cores, fontes e layout responsivo.
+app.js: menu, seleção de serviço e mensagem para WhatsApp.
+assets/: imagens e ícone do site.
+
+CONTATO
+O telefone configurado é (14) 99181-8212. Para alterar, substitua
+5514991818212 e a versão formatada no index.html e no app.js.
+
+FUNCIONAMENTO
+Site estático, sem instalação de dependências ou banco de dados.
+O formulário abre o WhatsApp com uma mensagem para o cliente revisar
+e enviar; não salva cadastros nem confirma agendamentos automaticamente.
+As fontes do Google e o WhatsApp precisam de conexão com a internet.
+
+IMAGENS
+A foto equipamentos.png é ilustrativa, gerada por IA.
+cartao-edumaq.jpeg é o material original fornecido.
+
+HOSPEDAGEM
+Publique o conteúdo desta pasta em uma hospedagem para sites estáticos,
+mantendo a pasta assets junto dos arquivos HTML, CSS e JavaScript.
+
+ATUALIZAÇÃO PARA CELULAR
+Layout refinado, textos maiores, menu com fundo escurecido, botões maiores
+e barra inferior de contato que se oculta ao visualizar o formulário.
+Inclui suporte à área segura de telas com recortes.
